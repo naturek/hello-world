@@ -1,2 +1,3 @@
 # hello-world
-Give this thing a try.
+
+Hello.  My name is Nature.  I am just getting started learning this code stuff.  Never too late to make a career change.  
